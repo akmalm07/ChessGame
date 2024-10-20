@@ -1,0 +1,13 @@
+﻿  Bishop.cpp
+  Board.cpp
+  BoardLayout.cpp
+  King.cpp
+  Knight.cpp
+  Pawn.cpp
+  PieceBase.cpp
+  Queen.cpp
+  Rook.cpp
+  pch.cpp
+  Generating Code...
+C:\Users\dev\cppdev\OpenGL\2D\ChessGame\Pieces\src\PieceBase.cpp(418,1): warning C4715: 'PieceBase::IsAvailableMove': not all control paths return a value
+  Pieces.vcxproj -> C:\Users\dev\cppdev\OpenGL\2D\ChessGame\Pieces\Build\bin\Release\Pieces\Pieces.lib

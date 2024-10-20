@@ -1,0 +1,22 @@
+﻿  Window.cpp
+C:\Users\dev\cppdev\OpenGL\2D\ChessGame\Graphics\include\pch.h(6,1): warning C4005: 'GLEW_STATIC': macro redefinition
+  (compiling source file 'src/Window.cpp')
+  C:\Users\dev\cppdev\OpenGL\2D\ChessGame\Graphics\include\pch.h(6,1):
+  'GLEW_STATIC' previously declared on the command line
+  
+C:\Users\dev\cppdev\OpenGL\2D\ChessGame\Graphics\include\Window.h(74,10): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+  (compiling source file 'src/Window.cpp')
+  
+C:\Users\dev\cppdev\OpenGL\2D\ChessGame\Graphics\include\Window.h(80,10): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+  (compiling source file 'src/Window.cpp')
+  
+C:\Users\dev\cppdev\OpenGL\2D\ChessGame\Graphics\include\Window.h(86,10): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+  (compiling source file 'src/Window.cpp')
+  
+C:\Users\dev\cppdev\OpenGL\2D\ChessGame\Graphics\include\Window.h(92,10): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+  (compiling source file 'src/Window.cpp')
+  
+C:\Users\dev\cppdev\OpenGL\2D\ChessGame\Graphics\src\Window.cpp(114,20): warning C4244: 'initializing': conversion from 'GLint' to 'float', possible loss of data
+C:\Users\dev\cppdev\OpenGL\2D\ChessGame\Graphics\src\Window.cpp(302,1): warning C4715: 'Window::GetIsMouseButtonPressed': not all control paths return a value
+C:\Users\dev\cppdev\OpenGL\2D\ChessGame\Graphics\src\Window.cpp(898,1): warning C4715: 'Window::FindWindowButtonName': not all control paths return a value
+  Graphics.vcxproj -> C:\Users\dev\cppdev\OpenGL\2D\ChessGame\Graphics\Build\bin\Debug\Graphics\Graphics.lib

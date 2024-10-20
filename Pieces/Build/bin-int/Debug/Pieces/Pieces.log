@@ -1,0 +1,36 @@
+﻿  Board.cpp
+C:\Users\dev\cppdev\OpenGL\2D\ChessGame\Pieces\include\Pawn.h(8,21): warning C4584: 'Pawn': base-class 'BoardLayout' is already a base-class of 'PieceBase'
+  (compiling source file 'src/Board.cpp')
+  C:\Users\dev\cppdev\OpenGL\2D\ChessGame\Pieces\include\BoardLayout.h(5,8):
+  see declaration of 'BoardLayout'
+  C:\Users\dev\cppdev\OpenGL\2D\ChessGame\Pieces\include\PieceBase.h(8,7):
+  see declaration of 'PieceBase'
+  
+C:\Users\dev\cppdev\OpenGL\2D\ChessGame\Graphics\include\pch.h(6,1): warning C4005: 'GLEW_STATIC': macro redefinition
+  (compiling source file 'src/Board.cpp')
+  C:\Users\dev\cppdev\OpenGL\2D\ChessGame\Graphics\include\pch.h(6,1):
+  'GLEW_STATIC' previously declared on the command line
+  
+C:\Users\dev\cppdev\OpenGL\2D\ChessGame\Graphics\include\Window.h(74,10): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+  (compiling source file 'src/Board.cpp')
+  
+C:\Users\dev\cppdev\OpenGL\2D\ChessGame\Graphics\include\Window.h(80,10): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+  (compiling source file 'src/Board.cpp')
+  
+C:\Users\dev\cppdev\OpenGL\2D\ChessGame\Graphics\include\Window.h(86,10): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+  (compiling source file 'src/Board.cpp')
+  
+C:\Users\dev\cppdev\OpenGL\2D\ChessGame\Graphics\include\Window.h(92,10): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+  (compiling source file 'src/Board.cpp')
+  
+C:\Users\dev\cppdev\OpenGL\2D\ChessGame\Pieces\src\Board.cpp(223,57): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\dev\cppdev\OpenGL\2D\ChessGame\Pieces\src\Board.cpp(223,54): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\dev\cppdev\OpenGL\2D\ChessGame\Pieces\src\Board.cpp(226,58): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\dev\cppdev\OpenGL\2D\ChessGame\Pieces\src\Board.cpp(226,55): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\dev\cppdev\OpenGL\2D\ChessGame\Pieces\src\Board.cpp(291,17): warning C4244: 'initializing': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\dev\cppdev\OpenGL\2D\ChessGame\Pieces\src\Board.cpp(292,17): warning C4244: 'initializing': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\dev\cppdev\OpenGL\2D\ChessGame\Pieces\src\Board.cpp(333,67): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\dev\cppdev\OpenGL\2D\ChessGame\Pieces\src\Board.cpp(333,54): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\dev\cppdev\OpenGL\2D\ChessGame\Pieces\src\Board.cpp(480,25): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\dev\cppdev\OpenGL\2D\ChessGame\Pieces\src\Board.cpp(481,25): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  Pieces.vcxproj -> C:\Users\dev\cppdev\OpenGL\2D\ChessGame\Pieces\Build\bin\Debug\Pieces\Pieces.lib

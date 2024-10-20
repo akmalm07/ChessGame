@@ -1,0 +1,11 @@
+.vs/
+External/
+ChessOfficial/
+Scripts/
+x64/
+trash/
+
+*.sln
+*.vcxproj
+*.vcxproj.user
+*.vcxproj.filters

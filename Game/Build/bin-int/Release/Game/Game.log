@@ -1,0 +1,71 @@
+﻿  Game.cpp
+C:\Users\dev\cppdev\OpenGL\2D\ChessGame\Graphics\include\Window.h(75,10): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+  (compiling source file 'src/Game.cpp')
+  
+C:\Users\dev\cppdev\OpenGL\2D\ChessGame\Graphics\include\Window.h(81,10): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+  (compiling source file 'src/Game.cpp')
+  
+C:\Users\dev\cppdev\OpenGL\2D\ChessGame\Graphics\include\Window.h(87,10): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+  (compiling source file 'src/Game.cpp')
+  
+C:\Users\dev\cppdev\OpenGL\2D\ChessGame\Graphics\include\Window.h(93,10): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+  (compiling source file 'src/Game.cpp')
+  
+C:\Users\dev\cppdev\OpenGL\2D\ChessGame\Game\src\Game.cpp(47,9): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'const std::string'
+C:\Users\dev\cppdev\OpenGL\2D\ChessGame\Game\src\Game.cpp(72,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\dev\cppdev\OpenGL\2D\ChessGame\Game\src\Game.cpp(73,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\dev\cppdev\OpenGL\2D\ChessGame\Game\src\Game.cpp(76,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\dev\cppdev\OpenGL\2D\ChessGame\Game\src\Game.cpp(76,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\dev\cppdev\OpenGL\2D\ChessGame\Game\src\Game.cpp(173,35): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\dev\cppdev\OpenGL\2D\ChessGame\Game\src\Game.cpp(173,32): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\dev\cppdev\OpenGL\2D\ChessGame\Graphics\include\Mesh.h(37,30): warning C4267: '=': conversion from 'size_t' to 'GLsizei', possible loss of data
+  (compiling source file 'src/Game.cpp')
+  C:\Users\dev\cppdev\OpenGL\2D\ChessGame\Graphics\include\Mesh.h(37,30):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\dev\cppdev\OpenGL\2D\ChessGame\Game\src\Game.cpp(144,11):
+  	see reference to function template instantiation 'void Mesh::Initalize<16,6>(const std::array<float,16> &,const std::array<unsigned int,6> &,bool,bool)' being compiled
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\memory(3434,56): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'src/Game.cpp')
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\memory(3434,56):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\dev\cppdev\OpenGL\2D\ChessGame\Game\src\Game.cpp(200,42):
+  	see reference to function template instantiation 'std::unique_ptr<Pawn,std::default_delete<Pawn>> std::make_unique<Pawn,Colors,size_t&,0>(Colors &&,size_t &)' being compiled
+  
+  Main.cpp
+C:\Users\dev\cppdev\OpenGL\2D\ChessGame\Graphics\include\Window.h(75,10): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+  (compiling source file 'src/Main.cpp')
+  
+C:\Users\dev\cppdev\OpenGL\2D\ChessGame\Graphics\include\Window.h(81,10): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+  (compiling source file 'src/Main.cpp')
+  
+C:\Users\dev\cppdev\OpenGL\2D\ChessGame\Graphics\include\Window.h(87,10): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+  (compiling source file 'src/Main.cpp')
+  
+C:\Users\dev\cppdev\OpenGL\2D\ChessGame\Graphics\include\Window.h(93,10): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+  (compiling source file 'src/Main.cpp')
+  
+  pch.cpp
+C:\Users\dev\cppdev\OpenGL\2D\ChessGame\Graphics\include\Window.h(75,10): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+  (compiling source file 'src/pch.cpp')
+  
+C:\Users\dev\cppdev\OpenGL\2D\ChessGame\Graphics\include\Window.h(81,10): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+  (compiling source file 'src/pch.cpp')
+  
+C:\Users\dev\cppdev\OpenGL\2D\ChessGame\Graphics\include\Window.h(87,10): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+  (compiling source file 'src/pch.cpp')
+  
+C:\Users\dev\cppdev\OpenGL\2D\ChessGame\Graphics\include\Window.h(93,10): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+  (compiling source file 'src/pch.cpp')
+  
+  Generating Code...
+Graphics.lib(glew.obj) : warning LNK4099: PDB '' was not found with 'Graphics.lib(glew.obj)' or at ''; linking object as if no debug info
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+LINK : warning LNK4217: symbol '__glewBindBuffer' defined in 'Graphics.lib(glew.obj)' is imported by 'Game.obj' in function '"public: void __cdecl Mesh::Initalize<16,6>(class std::array<float,16> const &,class std::array<unsigned int,6> const &,bool,bool)" (??$Initalize@$0BA@$05@Mesh@@QEAAXAEBV?$array@M$0BA@@std@@AEBV?$array@I$05@2@_N2@Z)'
+LINK : warning LNK4217: symbol '__glewBufferData' defined in 'Graphics.lib(glew.obj)' is imported by 'Game.obj' in function '"public: void __cdecl Mesh::Initalize<16,6>(class std::array<float,16> const &,class std::array<unsigned int,6> const &,bool,bool)" (??$Initalize@$0BA@$05@Mesh@@QEAAXAEBV?$array@M$0BA@@std@@AEBV?$array@I$05@2@_N2@Z)'
+LINK : warning LNK4217: symbol '__glewGenBuffers' defined in 'Graphics.lib(glew.obj)' is imported by 'Game.obj' in function '"public: void __cdecl Mesh::Initalize<16,6>(class std::array<float,16> const &,class std::array<unsigned int,6> const &,bool,bool)" (??$Initalize@$0BA@$05@Mesh@@QEAAXAEBV?$array@M$0BA@@std@@AEBV?$array@I$05@2@_N2@Z)'
+LINK : warning LNK4217: symbol '__glewEnableVertexAttribArray' defined in 'Graphics.lib(glew.obj)' is imported by 'Game.obj' in function '"public: void __cdecl Mesh::Initalize<16,6>(class std::array<float,16> const &,class std::array<unsigned int,6> const &,bool,bool)" (??$Initalize@$0BA@$05@Mesh@@QEAAXAEBV?$array@M$0BA@@std@@AEBV?$array@I$05@2@_N2@Z)'
+LINK : warning LNK4217: symbol '__glewVertexAttribPointer' defined in 'Graphics.lib(glew.obj)' is imported by 'Game.obj' in function '"public: void __cdecl Mesh::Initalize<16,6>(class std::array<float,16> const &,class std::array<unsigned int,6> const &,bool,bool)" (??$Initalize@$0BA@$05@Mesh@@QEAAXAEBV?$array@M$0BA@@std@@AEBV?$array@I$05@2@_N2@Z)'
+LINK : warning LNK4217: symbol '__glewBindVertexArray' defined in 'Graphics.lib(glew.obj)' is imported by 'Game.obj' in function '"public: void __cdecl Mesh::Initalize<16,6>(class std::array<float,16> const &,class std::array<unsigned int,6> const &,bool,bool)" (??$Initalize@$0BA@$05@Mesh@@QEAAXAEBV?$array@M$0BA@@std@@AEBV?$array@I$05@2@_N2@Z)'
+LINK : warning LNK4217: symbol '__glewGenVertexArrays' defined in 'Graphics.lib(glew.obj)' is imported by 'Game.obj' in function '"public: void __cdecl Mesh::Initalize<16,6>(class std::array<float,16> const &,class std::array<unsigned int,6> const &,bool,bool)" (??$Initalize@$0BA@$05@Mesh@@QEAAXAEBV?$array@M$0BA@@std@@AEBV?$array@I$05@2@_N2@Z)'
+  Game.vcxproj -> C:\Users\dev\cppdev\OpenGL\2D\ChessGame\Game\Build\bin\Release\Game\Game.exe

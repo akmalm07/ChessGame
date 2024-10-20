@@ -1,0 +1,75 @@
+﻿  Camera.cpp
+C:\Users\dev\cppdev\OpenGL\2D\ChessGame\Graphics\include\pch.h(6,1): warning C4005: 'GLEW_STATIC': macro redefinition
+  (compiling source file 'src/Camera.cpp')
+  C:\Users\dev\cppdev\OpenGL\2D\ChessGame\Graphics\include\pch.h(6,1):
+  'GLEW_STATIC' previously declared on the command line
+  
+  GraphicsHandlerAPI.cpp
+C:\Users\dev\cppdev\OpenGL\2D\ChessGame\Graphics\include\pch.h(6,1): warning C4005: 'GLEW_STATIC': macro redefinition
+  (compiling source file 'src/GraphicsHandlerAPI.cpp')
+  C:\Users\dev\cppdev\OpenGL\2D\ChessGame\Graphics\include\pch.h(6,1):
+  'GLEW_STATIC' previously declared on the command line
+  
+C:\Users\dev\cppdev\OpenGL\2D\ChessGame\Graphics\include\Window.h(75,10): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+  (compiling source file 'src/GraphicsHandlerAPI.cpp')
+  
+C:\Users\dev\cppdev\OpenGL\2D\ChessGame\Graphics\include\Window.h(81,10): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+  (compiling source file 'src/GraphicsHandlerAPI.cpp')
+  
+C:\Users\dev\cppdev\OpenGL\2D\ChessGame\Graphics\include\Window.h(87,10): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+  (compiling source file 'src/GraphicsHandlerAPI.cpp')
+  
+C:\Users\dev\cppdev\OpenGL\2D\ChessGame\Graphics\include\Window.h(93,10): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+  (compiling source file 'src/GraphicsHandlerAPI.cpp')
+  
+  Mesh.cpp
+C:\Users\dev\cppdev\OpenGL\2D\ChessGame\Graphics\include\pch.h(6,1): warning C4005: 'GLEW_STATIC': macro redefinition
+  (compiling source file 'src/Mesh.cpp')
+  C:\Users\dev\cppdev\OpenGL\2D\ChessGame\Graphics\include\pch.h(6,1):
+  'GLEW_STATIC' previously declared on the command line
+  
+  Shaders.cpp
+C:\Users\dev\cppdev\OpenGL\2D\ChessGame\Graphics\include\pch.h(6,1): warning C4005: 'GLEW_STATIC': macro redefinition
+  (compiling source file 'src/Shaders.cpp')
+  C:\Users\dev\cppdev\OpenGL\2D\ChessGame\Graphics\include\pch.h(6,1):
+  'GLEW_STATIC' previously declared on the command line
+  
+C:\Users\dev\cppdev\OpenGL\2D\ChessGame\Graphics\src\Shaders.cpp(246,35): warning C4267: '=': conversion from 'size_t' to 'GLint', possible loss of data
+  Texture.cpp
+C:\Users\dev\cppdev\OpenGL\2D\ChessGame\Graphics\include\pch.h(6,1): warning C4005: 'GLEW_STATIC': macro redefinition
+  (compiling source file 'src/Texture.cpp')
+  C:\Users\dev\cppdev\OpenGL\2D\ChessGame\Graphics\include\pch.h(6,1):
+  'GLEW_STATIC' previously declared on the command line
+  
+  Window.cpp
+C:\Users\dev\cppdev\OpenGL\2D\ChessGame\Graphics\include\pch.h(6,1): warning C4005: 'GLEW_STATIC': macro redefinition
+  (compiling source file 'src/Window.cpp')
+  C:\Users\dev\cppdev\OpenGL\2D\ChessGame\Graphics\include\pch.h(6,1):
+  'GLEW_STATIC' previously declared on the command line
+  
+C:\Users\dev\cppdev\OpenGL\2D\ChessGame\Graphics\include\Window.h(75,10): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+  (compiling source file 'src/Window.cpp')
+  
+C:\Users\dev\cppdev\OpenGL\2D\ChessGame\Graphics\include\Window.h(81,10): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+  (compiling source file 'src/Window.cpp')
+  
+C:\Users\dev\cppdev\OpenGL\2D\ChessGame\Graphics\include\Window.h(87,10): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+  (compiling source file 'src/Window.cpp')
+  
+C:\Users\dev\cppdev\OpenGL\2D\ChessGame\Graphics\include\Window.h(93,10): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+  (compiling source file 'src/Window.cpp')
+  
+C:\Users\dev\cppdev\OpenGL\2D\ChessGame\Graphics\src\Window.cpp(101,20): warning C4244: 'initializing': conversion from 'GLint' to 'float', possible loss of data
+C:\Users\dev\cppdev\OpenGL\2D\ChessGame\Graphics\src\Window.cpp(317,48): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\dev\cppdev\OpenGL\2D\ChessGame\Graphics\src\Window.cpp(431,41): warning C4244: 'argument': conversion from 'float' to 'uint32_t', possible loss of data
+C:\Users\dev\cppdev\OpenGL\2D\ChessGame\Graphics\src\Window.cpp(431,27): warning C4244: 'argument': conversion from 'float' to 'uint32_t', possible loss of data
+  pch.cpp
+C:\Users\dev\cppdev\OpenGL\2D\ChessGame\Graphics\include\pch.h(6,1): warning C4005: 'GLEW_STATIC': macro redefinition
+  (compiling source file 'src/pch.cpp')
+  C:\Users\dev\cppdev\OpenGL\2D\ChessGame\Graphics\include\pch.h(6,1):
+  'GLEW_STATIC' previously declared on the command line
+  
+  stb_image.cpp
+  Generating Code...
+C:\Users\dev\cppdev\OpenGL\2D\ChessGame\Graphics\src\Window.cpp(263,1): warning C4715: 'Window::GetIsMouseButtonPressed': not all control paths return a value
+  Graphics.vcxproj -> C:\Users\dev\cppdev\OpenGL\2D\ChessGame\Graphics\Build\bin\Release\Graphics\Graphics.lib

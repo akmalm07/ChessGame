@@ -1,0 +1,46 @@
+
+
+
+create is black color uniform in frag shader!!!
+
+
+for Oct 6 -- fix Error of cannot see anything on screen
+
+
+for oct 7 -- Make the AddPiece method of board take a r value refernce that will move the BasePiece to the array
+
+
+for oct 8 -- make a test to see if Board layout arrays are accurate
+
+go to: cd C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\Packages\Debugger\Visualizers
+
+and add:
+
+	<Function><Name>std::.+</Name><Action>NoStepInto</Action></Function><!--Added By Akmal Mukhamadiev-->
+
+to default.natstepfilter
+
+
+https://www.youtube.com/watch?v=w3gQ2ZgYIQE for assistence
+
+
+oct 10 -- Fix the bug that doesnt render the black pawns through SetPosOfPieces function for black pawns
+
+oct 13 -- Make window buttons into a 2D std::array with a structued binding. Also fix the user input errors//
+
+
+oct 14:: fix the ERROR for user mouse input
+
+--problom identified! - unify the coordinate systems of all the graphs
+
+
+--Fix oriotation and mods ofr Ctrl + KEY for keyCombonations map in winndow class 
+
+
+add array of MODS:emun
+
+
+
+DO MORE TESTIING if final alignemnt is correct an dreview HandleMouseButtons
+
+The Oriotation of the clickable buttons is wrong, so fix it!!
